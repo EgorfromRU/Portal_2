@@ -1,0 +1,11 @@
+Model Information:
+* title:	Portal Gun (With Download)
+* source:	https://sketchfab.com/3d-models/portal-gun-with-download-775a7994c0f14cec907d0aec6f9605c4
+* author:	Habofro (https://sketchfab.com/habofro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Portal Gun (With Download)" (https://sketchfab.com/3d-models/portal-gun-with-download-775a7994c0f14cec907d0aec6f9605c4) by Habofro (https://sketchfab.com/habofro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

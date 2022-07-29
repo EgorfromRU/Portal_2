@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://texture_button_script.gd" type="Script" id=1]
+[ext_resource path="res://Start.png" type="Texture" id=2]
+[ext_resource path="res://Background.jpg" type="Texture" id=3]
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Background" type="Sprite" parent="."]
+position = Vector2( 512.5, 299.25 )
+scale = Vector2( 2.0752, 1.71368 )
+texture = ExtResource( 3 )
+
+[node name="TextureButton" type="TextureButton" parent="."]
+margin_left = 255.0
+margin_top = 180.0
+margin_right = 767.0
+margin_bottom = 692.0
+texture_normal = ExtResource( 2 )
+script = ExtResource( 1 )
+
+[connection signal="pressed" from="TextureButton" to="TextureButton" method="_on_TextureButton_pressed"]
